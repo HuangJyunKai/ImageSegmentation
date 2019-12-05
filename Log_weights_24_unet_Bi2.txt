@@ -1,0 +1,1 @@
+epoch 24 loss:0.00201 Val_loss:0.03236
